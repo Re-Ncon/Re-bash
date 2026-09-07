@@ -5,6 +5,18 @@
 ![Bash](https://img.shields.io/badge/Language-Bash-green?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)
 
+## 📥 Установка и запуск
+
+Вам не обязательно скачивать весь репозиторий, достаточно загрузить сам исполняемый файл скрипта.
+
+### 1. Скачивание скрипта
+Загрузите скрипт на рабочую станцию с помощью утилиты `wget` (файл сохранится как `Re_bash.sh`):
+```bash
+wget -O Re_bash.sh [https://raw.githubusercontent.com/Re-Ncon/Re-bash/main/Re%20bash.sh](https://raw.githubusercontent.com/Re-Ncon/Re-bash/main/Re%20bash.sh)
+chmod +x Re_bash.sh
+sudo ./Re_bash.sh
+```
+## ИНФОРМАЦИЯ
 ### 📊 Сводная таблица модулей
 
 | Категория | Технологии | Поддерживаемый функционал |
