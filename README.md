@@ -16,6 +16,8 @@ wget -O Re_bash.sh [https://raw.githubusercontent.com/Re-Ncon/Re-bash/main/Re%20
 chmod +x Re_bash.sh
 sudo ./Re_bash.sh
 ```
+Либой скачайте с страници релизов https://github.com/Re-Ncon/Re-bash/releases/tag/v1.7.a
+
 ## ИНФОРМАЦИЯ
 ### 📊 Сводная таблица модулей
 
